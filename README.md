@@ -1,4 +1,4 @@
-# AWS-Analysis
+# AWS-Business-Analysis-and-Prediction
 
 Build machine learning-powered business intelligence analyses using Amazon QuickSight
 
