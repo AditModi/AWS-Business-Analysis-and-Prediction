@@ -3,7 +3,7 @@
         {
             "URIs": [
           "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-01.csv",
-          "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-02.csv",aaa
+          "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-02.csv",
           "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-03.csv",
           "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-04.csv",
           "https://nyc-tlc.s3.amazonaws.com/trip data/green_tripdata_2018-05.csv",
