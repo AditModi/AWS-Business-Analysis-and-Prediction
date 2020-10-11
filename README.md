@@ -3,6 +3,7 @@
 Build machine learning-powered business intelligence analyses using Amazon QuickSight
 
 
+
 ![image](https://user-images.githubusercontent.com/48589838/77070278-f1ae3100-6a0f-11ea-9ad0-7e9fdf80712b.png)
 
 Amazon QuickSight ML Insights uses AWS-proven ML and natural language capabilities to help you gain deeper insights from your data. These powerful, out-of-the-box features make it easy to discover hidden trends and outliers, identify key business drivers, and perform powerful what-if analysis and forecasting with no technical or ML experience.
